@@ -1,0 +1,37 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+
+# Rider
+.idea/
+
+# Resharper
+*.ReSharper*
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+# NuGet v3
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# OS
+.DS_Store
+Thumbs.db
